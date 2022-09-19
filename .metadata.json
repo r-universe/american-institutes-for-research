@@ -1,9 +1,5 @@
 [
   {
-    "package": "Dire",
-    "oncran": true
-  },
-  {
     "package": "EdSurvey",
     "oncran": true
   },
