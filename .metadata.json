@@ -1,18 +1,18 @@
 [
   {
-    "package": "Dire",
-    "oncran": true
-  },
-  {
     "package": "EdSurvey",
     "oncran": true
   },
   {
-    "package": "wCorr",
+    "package": "WeMix",
     "oncran": true
   },
   {
-    "package": "WeMix",
+    "package": "Dire",
+    "oncran": true
+  },
+  {
+    "package": "wCorr",
     "oncran": true
   }
 ]
