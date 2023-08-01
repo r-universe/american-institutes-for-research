@@ -8,9 +8,9 @@
 [submodule "EdSurvey"]
 	path = EdSurvey
 	url = https://github.com/american-institutes-for-research/edsurvey
-[submodule "wCorr"]
-	path = wCorr
-	url = https://github.com/american-institutes-for-research/wcorr
 [submodule "WeMix"]
 	path = WeMix
 	url = https://github.com/american-institutes-for-research/wemix
+[submodule "wCorr"]
+	path = wCorr
+	url = https://github.com/american-institutes-for-research/wcorr
